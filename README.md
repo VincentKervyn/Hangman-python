@@ -1,6 +1,7 @@
 # hangman-python
 Coding the Hangman game in Python, 1st solo project
 
+ON WORK 
 ---
 
 ## -What
